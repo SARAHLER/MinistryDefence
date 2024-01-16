@@ -42,6 +42,7 @@ which includes files that serve as an example of using the Redux Toolkit to mana
 and server side requests
 initial state
 ![image](https://github.com/SARAHLER/MinistryDefence/assets/74296156/565febd7-5737-4103-bd77-a87b31b5ca00)
+![image](https://github.com/SARAHLER/MinistryDefence/assets/74296156/dc3584a6-5348-43e2-8685-b8a20a24642f)
 
 add
 ![image](https://github.com/SARAHLER/MinistryDefence/assets/74296156/30edf940-9305-462e-b511-32cf473e039b)
@@ -49,4 +50,6 @@ add
  after add 
  ![image](https://github.com/SARAHLER/MinistryDefence/assets/74296156/8fc2069e-a626-43a4-931e-7a16dfe039e8)
 Check if you entered all the values 
+![image](https://github.com/SARAHLER/MinistryDefence/assets/74296156/bfd99dee-94ba-4f9a-9852-69b7f46a7201)
+
  
