@@ -8,7 +8,7 @@ I moved the folders to:
 config - database connection
 routes-the routing files
 controllers - the logic files that include:
-controllerscategires::
+controllerscategires:
 -Creating the table of the category
 - Entering 5 basic values
 -Retrieval of the entire category list
