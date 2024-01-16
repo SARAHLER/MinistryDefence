@@ -47,6 +47,6 @@ initial state
 add
 ![image](https://github.com/SARAHLER/MinistryDefence/assets/74296156/30edf940-9305-462e-b511-32cf473e039b)
 
-![image](https://github.com/SARAHLER/MinistryDefence/assets/74296156/dde2e9d8-e4bd-4686-876a-2818c291950d)
  after add 
  ![image](https://github.com/SARAHLER/MinistryDefence/assets/74296156/8fc2069e-a626-43a4-931e-7a16dfe039e8)
+cCheck if you entered all the values 
