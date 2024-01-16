@@ -40,7 +40,6 @@ apiConfig: The URL of the server when
 The reducer folder:
 which includes files that serve as an example of using the Redux Toolkit to manage states (state) in an application that uses React and asynchronous requests (async).
 and server side requests
-
 initial state
 ![image](https://github.com/SARAHLER/MinistryDefence/assets/74296156/565febd7-5737-4103-bd77-a87b31b5ca00)
 
@@ -49,4 +48,5 @@ add
 
  after add 
  ![image](https://github.com/SARAHLER/MinistryDefence/assets/74296156/8fc2069e-a626-43a4-931e-7a16dfe039e8)
-cCheck if you entered all the values 
+Check if you entered all the values 
+ 
